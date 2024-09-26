@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1073545984199",
+    "project_id": "lovepeople-livecoding",
+    "storage_bucket": "lovepeople-livecoding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073545984199:android:7935d14a4e3aed5785a6e2",
+        "android_client_info": {
+          "package_name": "com.lovepeopleGemini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073545984199-6a1j7rnacfedfh97o1ftr0trehos7e0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lovepeopleGemini",
+            "certificate_hash": "3d00c3ab41c392f52c592f6f0f7080d5e7b705b0"
+          }
+        },
+        {
+          "client_id": "1073545984199-6bsi29omfcbj57m9ma2c55h7ce1e4qhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHh6NIFybPXPQTGXHF_IwQoQCJr82TLtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073545984199-6bsi29omfcbj57m9ma2c55h7ce1e4qhs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1073545984199-ec3vcu6ojja7vio61prkuokqqqv5j7st.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseAuthentication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

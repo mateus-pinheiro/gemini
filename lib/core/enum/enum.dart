@@ -1,0 +1,1 @@
+enum FeedbackPageStatus { success, failed }

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD1-RB2PatDPWaY8q83FDRGHgGRd3GwCus</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1073545984199</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebaseAuthentication</string>
+	<key>PROJECT_ID</key>
+	<string>lovepeople-livecoding</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lovepeople-livecoding.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1073545984199:ios:4ec42a91fb95205685a6e2</string>
+</dict>
+</plist>
