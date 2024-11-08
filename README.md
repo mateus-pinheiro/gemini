@@ -1,4 +1,4 @@
-# firebase_authentication
+# Gimini project
 
 A new Flutter project.
 
